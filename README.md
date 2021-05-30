@@ -29,5 +29,5 @@ I have developed solution for important business problems such as forecasting st
 
 Building a Machine Learning model to predict sales up to six weeks in advance makes easier and more accurate financial planning to the company.
 
-In this project, I developed a regression Machine Learning model able to predict sales up to six weeks in advance for each individual store with **11% of error** for more than 1,000 stores. With this, I was able to show the **best and worst case scenario of sales** for each store, making the decision to allocate budget and financial planning easier.
+In this project, I developed a regression Machine Learning model able to predict sales up to six weeks in advance for each individual store with **11% of error** for more than 1,000 stores. With this, I was able to show the **best scenario and worst scenario of sales** for each store, making the decision to allocate budget and financial planning easier.
 
