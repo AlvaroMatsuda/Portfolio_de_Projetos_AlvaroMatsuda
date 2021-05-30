@@ -24,3 +24,7 @@ I have developed solution for important business problems such as forecasting st
 - https://www.linkedin.com/in/alvaromatsuda/
 - ![image](kazu.mts@gmail.com)
 
+- ![![image](https://user-images.githubusercontent.com/72954917/120115528-72130a80-c15a-11eb-8826-05efd0fe6ed8.png)](https://www.linkedin.com/in/alvaromatsuda/)
+
+
+
