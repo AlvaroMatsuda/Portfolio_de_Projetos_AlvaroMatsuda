@@ -22,5 +22,5 @@ I have developed solution for important business problems such as forecasting st
 
 **Links:**
 - https://www.linkedin.com/in/alvaromatsuda/
-- ![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+- <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 
