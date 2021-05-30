@@ -21,10 +21,13 @@ I have developed solution for important business problems such as forecasting st
 - **Machine Learning Deployment:** Heroku, Streamlit.
 
 **Links:**
-- https://www.linkedin.com/in/alvaromatsuda/
-- ![image](kazu.mts@gmail.com)
+- Linkedin: https://www.linkedin.com/in/alvaromatsuda/
+- email: kazu.mts@gmail.com
 
-- [![image](https://user-images.githubusercontent.com/72954917/120115528-72130a80-c15a-11eb-8826-05efd0fe6ed8.png)(https://www.linkedin.com/in/alvaromatsuda/)]
+[Flex Grid](https://github.com/AlvaroMatsuda/Rossman_Sales_Prediction)
 
-
+# Data Science Projects
+**Sales Forecast**
+Building a Machine Learning model to predict sales up to six weeks in advance makes easier and more accurate financial planning to the company.
+In this project, I developed a regression Machine Learning model able to predict sales up to six weeks in advance for each individual store with **11% of error** for more than 1,000 stores. With this, I was able to show the **best and worst case scenario of sales** for each store, making the decision to allocate budget and financial planning easier.
 
