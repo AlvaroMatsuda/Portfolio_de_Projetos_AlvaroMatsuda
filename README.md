@@ -13,7 +13,7 @@ I have mastery of all stages of developing a business solution using concepts an
 
 I have developed solution for important business problems such as forecasting store sales.
 
-**Analytical Tools:
+**Analytical Tools:**
 
 - **Data Processing and Analysis:** Python, R, Excel.
 - **Development:** Git, Linux.
