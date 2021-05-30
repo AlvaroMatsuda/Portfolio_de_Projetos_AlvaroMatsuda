@@ -7,7 +7,7 @@ The main objective of this personal data science project portfolio is to demonst
 # Álvaro Matsuda
 Data Scientist
 
-I'm studying Data Science since November/2020 and I have experience doing Data Science projects. At the moment I work at Urban Systems as a Junior Business Research and I'm transitioning to Data Science.
+I'm studying Data Science since 2020 and I have experience doing Data Science projects. At the moment I work at Urban Systems as a Junior Business Research and I'm transitioning to Data Science.
 
 I have mastery of all stages of developing a business solution using concepts and tools of Data Science, from understandong the business going throgh Exploratory Data Analysis (EDA), building models to publishing the model in production using Clouds.
 
