@@ -2,7 +2,7 @@
 
 The main objective of this personal data science project portfolio is to demonstrate my skills in solving business challenges and problems through my knowledge and tools of Data Science.
 
-**Colar Imagem**
+![image](https://user-images.githubusercontent.com/72954917/120116776-1cd9f780-c160-11eb-8f78-06301cda1259.png)
 
 # Álvaro Matsuda
 Data Scientist
