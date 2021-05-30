@@ -22,7 +22,7 @@ I have developed solution for important business problems such as forecasting st
 
 **Links:**
 - [![image](https://user-images.githubusercontent.com/72954917/120116160-22820e00-c15d-11eb-84f6-aed7249d7754.png)](https://www.linkedin.com/in/alvaromatsuda/)
-- [![image](https://user-images.githubusercontent.com/72954917/120116120-f36b9c80-c15c-11eb-8ab5-36361b51a4ee.png)](kazu.mts@gmail.com)
+- [![image](https://user-images.githubusercontent.com/72954917/120116120-f36b9c80-c15c-11eb-8ab5-36361b51a4ee.png)](mailto:kazu.mts@gmail.com)
 
 # Data Science Projects
 [**Sales Forecast**](https://github.com/AlvaroMatsuda/Rossman_Sales_Prediction)
