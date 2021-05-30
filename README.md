@@ -1,6 +1,6 @@
 # Portfolio_Projects_AlvaroMatsuda
 
-The main objective of this data science personal project portfolio is to demonstrate mu skills in solving business challenges and problems through my knowledge and tools of Data Science.
+The main objective of this personal data science project portfolio is to demonstrate my skills in solving business challenges and problems through my knowledge and tools of Data Science.
 
 **Colar Imagem**
 
