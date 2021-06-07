@@ -25,7 +25,7 @@ I have developed solution for important business problems such as forecasting st
 - [![image](https://user-images.githubusercontent.com/72954917/120116120-f36b9c80-c15c-11eb-8ab5-36361b51a4ee.png)](mailto:kazu.mts@gmail.com)
 
 # Data Science Projects
-[**Sales Forecast**](https://github.com/AlvaroMatsuda/Rossman_Sales_Prediction)
+[**Sales Forecast**](https://github.com/AlvaroMatsuda/Rossmann_Sales_Prediction)
 
 Building a Machine Learning model to predict sales up to six weeks in advance makes easier and more accurate financial planning to the company.
 
