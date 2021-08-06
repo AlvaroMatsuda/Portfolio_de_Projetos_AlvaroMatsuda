@@ -32,6 +32,7 @@ Building a Machine Learning model to predict sales up to six weeks in advance ma
 In this project, I developed a regression Machine Learning model able to predict sales up to six weeks in advance for each individual store with **11% of error** for more than 1,000 stores. With this, I was able to show the **best scenario and worst scenario of sales** for each store, making the decision to allocate budget and financial planning easier.
 
 [**Cardiovascular Disease Detection**](https://github.com/AlvaroMatsuda/Cardio_Catch_Diseases)
+
 The objective of this project was to implement a classification model to predict cardiovascular disease at early stages to help improve the precision and time taken to do the diagnoses and increasing the profit of the company.
 
 With the model, the precision of the diagnoses improved 15%, from 60% to 75%. Given that the company charges based on the precision of the diagnoses, the model could increase the profit per diagnosis by R$ 1.500,00 in average.
