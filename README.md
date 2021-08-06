@@ -11,7 +11,7 @@ I'm studying Data Science since 2020 and I have experience doing Data Science pr
 
 I have mastery of all stages of developing a business solution using concepts and tools of Data Science, from understandong the business going throgh Exploratory Data Analysis (EDA), building models to publishing the model in production using Clouds.
 
-I have developed solution for important business problems such as forecasting store sales.
+I have developed solution for important business problems such as forecasting store sales and disease detection.
 
 **Analytical Tools:**
 
